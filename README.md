@@ -20,7 +20,7 @@ Este é um simples jogo de adivinhação desenvolvido utilizando o framework Fla
 
    ```bash
    git clone https://github.com/marcosparreiras/guess_game.git
-   cd guess-game
+   cd guess_game
    ```
 
 2. Execute o projeto em containers com o docker compose:
