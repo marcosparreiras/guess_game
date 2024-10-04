@@ -19,7 +19,7 @@ Este é um simples jogo de adivinhação desenvolvido utilizando o framework Fla
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/fams/guess_game.git
+   git clone https://github.com/marcosparreiras/guess_game.git
    cd guess-game
    ```
 
