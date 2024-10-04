@@ -1,0 +1,9 @@
+.venv
+.vscode
+venv
+*/__pycache__/*
+*.pyc
+*.pyo
+bin/
+*.lock
+
